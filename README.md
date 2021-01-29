@@ -15,6 +15,7 @@ I've only tested this efi on macOS 11.1.
 
 ### Credits
 - [Apple](https://www.apple.com) for macOS
-- [gajjartejas](https://github.com/gajjartejas/) for [ASUS-B85M-G-Hackintosh](https://github.com/gajjartejas/ASUS-B85M-G-Hackintosh)
+
+- [gajjartejas](https://github.com/gajjartejas/) for [ASUS-B85M-G-Hackintosh](https://github.com/gajjartejas/ASUS-B85M-G-Hackintosh)
 - [Mieze](https://github.com/Mieze) for [RTL8111 Driver for OS X](https://github.com/Mieze/RTL8111_driver_for_OS_X)
 - Others
