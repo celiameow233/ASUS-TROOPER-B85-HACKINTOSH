@@ -11,7 +11,7 @@ I've only tested this efi on macOS 11.1.
 ### Support
 - FileVault
 - HDMI output
-- Wake(maybe problems including)
+- Wake(may troubling)
 
 ### Credits
 - [Apple](https://www.apple.com) for macOS
